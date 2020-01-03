@@ -1,0 +1,11 @@
+{
+  "name": "ChartDoc-CN",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0"
+  }
+}
